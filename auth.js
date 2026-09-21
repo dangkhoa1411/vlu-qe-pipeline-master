@@ -1,4 +1,4 @@
-// auth.js
+// Updated login function on feature branch
 
 const lockedAccounts = ["locked"];
 
